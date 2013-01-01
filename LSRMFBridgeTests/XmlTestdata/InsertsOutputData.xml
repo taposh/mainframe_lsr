@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<Inserts>
+	<Insurer 
+		NAICGroupFID=""
+		InsurerName="State Compensation Insurance Fund of California" 
+		IsIndependent="False"
+		EffectiveFromDate="10/21/2007" 
+		EffectiveToDate="10/21/2007" 
+		MemberTypeLID="184"
+		MemberStatusLID="183"
+		MNFRMInsurerName="STATE CMPNSTN INS FUND"
+		InsurerCode="999"
+		CDICode=""
+		NCCICode="20036"
+		NAICCode="35076"
+		CreateUserFID="1"
+		LastUpdateUserFID="1"
+		IsActive="False"
+	   >
+	</Insurer>
+	<TPE
+		FEINCode="" 
+        TPEStatusFID="" 
+        Name="State Compensation Insurance Fund of California" 
+        CreateDate="11/12/2007" 
+        CreateUserFID="1" 
+        LastUpdateUserFID="1" 
+		LastUpdateDate="11/12/2007" 
+		IsActive="False"
+	   >
+	</TPE>
+
+	<NAICGroup 
+		NAICGROUPCODE="9999"
+		NAICGROUPNAME="APPLIED UNDERWRITERS GRP INSERT"
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</NAICGroup>
+
+	<CDC_TPE 
+		TPECODE="ABCD"
+		NAME="WASHINGTON SURVEYING amp; RATING BUREAU INSERT"
+		TPECREATETIME="12/01/2004"
+		INACTIVEDATE=""
+		TPESTATUS="Active"
+		EFFECTIVEDATE=""
+		TPETYPE="Information Release"
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</CDC_TPE>
+
+	<CDC_CARRIER_CONTACT_INFO 
+		CONTACTID="1001"
+		LOCATIONID="1001"
+		CONTACTTYPEID="105"
+		HONORIFIC=""
+		FIRSTNAME="Holly"
+		LASTNAME="Golden"
+		MIDDLE=""
+		ATTENTION1="Holly Golden 5GS"
+		ATTENTION2="9GS"
+		TITLE=""
+		TELEPHONE="(860) 277-4679"
+		EXTENSION="2334"
+		EMAIL="anithv@sapient.com"
+		FAX=""
+		MAILSTOP=""
+		MAILINSTRUCTION=""
+		MAIL="YES"
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</CDC_CARRIER_CONTACT_INFO>
+	
+	<CDC_TPE_CONTACT_INFO 
+		CONTACTID="ABCD"
+		LOCATIONID="1005"
+		CONTACTTYPEID="1005"
+		HONORIFIC=""
+		FIRSTNAME="WILLIAM"
+		LASTNAME="MILLER"
+		MIDDLE="J"
+		ATTENTION1="CHRISTINE BAKER                              "
+		ATTENTION2="COMMISSION HEALTH amp; SAFETY"
+		TITLE="EXECUTIVE OFFICER  "
+		TELEPHONE="(344) 342-456"
+		EXTENSION="4567"
+		EMAIL="anithv@sapient.com"
+		FAX=""
+		MAILSTOP=""
+		MAILINSTRUCTION=""
+		MAIL="YES"
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</CDC_TPE_CONTACT_INFO>
+
+	<CDC_CARRIER_LOCATION 
+		LOCATIONID="1001"
+		CARRIERCODE="102"
+		NAME="ST PAUL TRAVELERS GRP #2"
+		ADDRESS1="ONE TOWER SQ 10MN"
+		ADDRESS2=""
+		CITY="HARTFORD"
+		STATE="CT"
+		ZIP="06183"
+		ZIP4=""
+		OFFICETYPE="Act Comm Mbr"
+		MAILCODE="ACT-102-CT"
+		MAILDESCRIPTION=""
+		LOT="3"
+		SELECTIONTAG="X"
+		PRINTTAG=""
+		SYSTEM=""
+		INBOUNDFTP=""
+		OUTBOUNDFTP=""
+		TESTINGSTATUS=""
+		LOCATIONSTATUS="Active "
+		LOCCREATEDATE=""
+		EFFECTIVEMAILDATE="05/24/2005"
+		INACTIVEDATE=""
+		DEPARTMENTNAME="FNCL amp; ACT"
+		CITYCODE="HRT"
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</CDC_CARRIER_LOCATION>
+
+	<CDC_CAR_TPE_LOCATION 
+		LOCATIONID="1005"
+		CARRIERCODE=""
+		TPECODE="150100000"
+		NAME="STATE OF CA DEPT OF INDUSTRIAL RELATIONS"
+		ADDRESS1="455 GOLDEN GATE AVE                  "
+		ADDRESS2="10TH FL                                           "
+		CITY="SAN FRANCISCO"
+		STATE="CA"
+		ZIP="94102"
+		ZIP4="3660"
+		OFFICETYPE="HO Bull amp; Mins"
+		MAILCODE="BMX-017-SF1"
+		MAILDESCRIPTION=""
+		LOT="15"
+		SELECTIONTAG="X"
+		PRINTTAG=""
+		SYSTEM=""
+		INBOUNDFTP=""
+		OUTBOUNDFTP=""
+		TESTINGSTATUS=""
+		LOCATIONSTATUS=""
+		LOCCREATEDATE=""
+		EFFECTIVEMAILDATE=""
+		INACTIVEDATE=""
+		DEPARTMENTNAME=""
+		CITYCODE=""
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</CDC_CAR_TPE_LOCATION>
+	
+	<CDC_CLOSED_INSOLVENT_RUNOFF 
+		CARRIERCODE="114"
+		CONSERVATIONDATE="03/06/2000"
+		LIQUIDATIONDATE="09/26/2000"
+		POCFILINGDATE="05/25/2001"
+		CLOSUREDATE=""
+		STATUS="Rate Without Date"
+		DATERATEWITHOUT="07/01/2003"
+		RECEIVERSHIPDATE=""
+		LogDateTime=""
+		LogUser=""
+		LogStatus="Insert"
+	   >
+	</CDC_CLOSED_INSOLVENT_RUNOFF>
+	
+</Inserts>
+

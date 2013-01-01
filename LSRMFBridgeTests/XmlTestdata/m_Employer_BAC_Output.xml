@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Inserts>
+	<EmployerBAC
+		EmployerFID="1"
+		JobClassificationFID="1"
+		DateDeleted="01/01/2008"
+		ZipCodeRouteNumberMapFID="1"
+		OfficeAssigned="True"
+		IfAny="True"
+		USLH="True"
+		IsActive="True"
+		Lotus="True"
+		CreateUserFID="1"
+		CreateDate="01/01/2007"
+		LastUpdateUserFID="3"
+		LastUpdateDate="01/23/2008"
+		EffectiveFromDate="01/23/2008"
+		JobClassificationSuffixFID="1"
+		suffix=""
+		   />
+		   
+</Inserts>

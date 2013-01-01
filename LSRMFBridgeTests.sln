@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSRMFBridgeTests", "LSRMFBridgeTests\LSRMFBridgeTests.csproj", "{3E9EB928-0CE4-4861-8BD1-BACD0363C012}"
+EndProject
+Project("{4F174C21-8C12-11D0-8340-0000F80270F8}") = "LSRMFDatabase", "LSRMFDatabase\LSRMFDatabase.dbp", "{15182ACE-A1AC-4CE6-8DA3-7957FAAEE078}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://banglsrindev:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LSRMFBridgeTests\\LSRMFBridgeTests.csproj
+		SccProjectName1 = LSRMFBridgeTests
+		SccLocalPath1 = LSRMFBridgeTests
+		SccProjectUniqueName2 = LSRMFDatabase\\LSRMFDatabase.dbp
+		SccProjectName2 = LSRMFDatabase
+		SccLocalPath2 = LSRMFDatabase
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9EB928-0CE4-4861-8BD1-BACD0363C012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9EB928-0CE4-4861-8BD1-BACD0363C012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9EB928-0CE4-4861-8BD1-BACD0363C012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9EB928-0CE4-4861-8BD1-BACD0363C012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
